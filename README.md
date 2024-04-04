@@ -13,12 +13,12 @@
 
   ## Usage
 1. Use the link below in google chrome to flash the project onto ESP32 (DevKit or module)
-1. Power ESP32
-1. Management AP will display in your cell phones available wifi networks within 60 seconds of powering on the ESP32.
-1. Connect to this AP\
+2. Once the flash is complete, unplug the ESP32 for 30 seconds. Plug the usb back in to power up ESP32.
+3. Management AP will display in your cell phone or pc/mac list of available wifi networks within 60 seconds of powering on the ESP32.
+4. Connect to this AP\
 By default: 
 *SSID:* `ManagementAP` and *password:* `mgmtadmin`
-1. In a browser like brave or chrome on cell phone open `192.168.4.1` and you should see a web client to configure and control tool like this:
+5. In a browser like brave or chrome on cell phone open `192.168.4.1` and you should see a web client to configure and control tool like this:
 
 ![Web client UI](Images/ui-img.png)
   
