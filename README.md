@@ -20,6 +20,6 @@ By default:
 *SSID:* `ManagementAP` and *password:* `mgmtadmin`
 1. In a browser like brave or chrome on cell phone open `192.168.4.1` and you should see a web client to configure and control tool like this:
 
-![Web client UI](Images/uiimg.png)
+![Web client UI](Images/ui-img.png)
   
 Simple Flash Method: <a href=https://atomnft.github.io/ESP32-Wi-Fi-Penetration-Tool/flash0.html>ESP32 Wi-Fi Penetration Tool Flasher</a>
