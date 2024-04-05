@@ -6,7 +6,7 @@
       "improv": false,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "partitions.bin", "offset": 32768 },
+        { "path": "partition-table.bin", "offset": 32768 },
         { "path": "esp32-wifi-penetration-tool.bin", "offset": 65536 }
       ]
     },
