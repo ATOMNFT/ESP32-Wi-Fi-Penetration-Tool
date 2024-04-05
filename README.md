@@ -1,7 +1,7 @@
 ![Header](Images/esppt.png)
 <br>
 
-## 🌟 Still Under Testing 04/04/24 🌟
+## 🌟 Fully working as of 04/05/24 🌟
 
 <b>Thought I'd make it easy for those wanting to try out "ESP32 Wi-Fi Penetration Tool" by <a href="https://github.com/risinek/esp32-wifi-penetration-tool">"risinek"</a>. This is a universal tool for ESP32 boards  and it allows implementing various Wi-Fi attacks. It's a simple parts list to put together and can be built in under 20 mins without a case. <br> </b>
   
@@ -14,7 +14,7 @@
   ## Usage
 1. Use the link below in google chrome to flash the project onto ESP32 (DevKit or module)
 2. Once the flash is complete, unplug the ESP32 for 30 seconds. Plug the usb back in to power up ESP32.
-3. Management AP will display in your cell phone or pc/mac list of available wifi networks within 60 seconds of powering on the ESP32.
+3. Management AP will display in your cell phone or pc/mac list of available wifi networks within 30 seconds of powering on the ESP32.
 4. Connect to this AP\
 By default: 
 *SSID:* `ManagementAP` and *password:* `mgmtadmin`
