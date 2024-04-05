@@ -1,5 +1,5 @@
 {
-  "name": "Wi-Fi Penetration Tool",
+  "name": "Wi-Fi Pen-Tool",
   "builds": [
     {
       "chipFamily": "ESP32",
