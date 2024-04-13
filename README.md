@@ -1,7 +1,7 @@
 ![Header](Images/esppt.png)
 <br>
 
-## 🌟 Fully working as of 04/05/24 🌟
+## 🌟 Flash Tool Fully working as of 04/05/24 🌟
 
 <b>Thought I'd make it easy for those wanting to try out "ESP32 Wi-Fi Penetration Tool" by <a href="https://github.com/risinek/esp32-wifi-penetration-tool">"risinek"</a>. This is a universal tool for ESP32 boards  and it allows implementing various Wi-Fi attacks. 
 <br>
