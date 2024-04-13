@@ -13,8 +13,6 @@ It's a simple parts list to put together and the parts do not take to long to pr
 ## Pics of build 
 ![Outside](Images/Outside-1.jpg)![Inside](Images/Inside-1.jpg)
 <br>   
-
-  
 <hr>
 <br>
 
