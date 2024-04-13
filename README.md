@@ -10,7 +10,7 @@ I have designed a case and lid that can be 3d printed and it houses a small lipo
 It's a simple parts list to put together and the parts do not take to long to print. I will be adding the files for printing soon along with pics of the build. </b>
 
 ## Pics of build 
-![Outside](Images/Outside.jpg)![Inside](Images/inside.jpg)
+![Outside](Images/Outside-1.jpg)![Inside](Images/inside-1.jpg)
 <br>   
 ### More info about "ESP32 Wi-Fi Penetration Tool" can be located <a href="https://github.com/risinek/esp32-wifi-penetration-tool">HERE</a>.  
   
