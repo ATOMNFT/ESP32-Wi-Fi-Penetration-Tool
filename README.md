@@ -16,14 +16,10 @@ It's a simple parts list to put together and the parts do not take to long to pr
 
   
 <hr>
-  
-## Simple Flash Method: <br>
-<a href=https://atomnft.github.io/ESP32-Wi-Fi-Penetration-Tool/flash0.html>ESP32 Wi-Fi Penetration Tool Flasher</a>
-  
-  <br>
+<br>
 
-## Usage
-1. Use the link below in google chrome to flash the project onto ESP32 (DevKit or module)
+## Simple Flash Method & Usage:
+1. Use the <a href=https://atomnft.github.io/ESP32-Wi-Fi-Penetration-Tool/flash0.html>ESP32 Wi-Fi Penetration Tool Flasher</a> in google chrome to flash the project onto ESP32 (DevKit or module)
 2. Once the flash is complete, unplug the ESP32 for 30 seconds. Plug the usb back in to power up ESP32.
 3. Management AP will display in your cell phone or pc/mac list of available wifi networks within 30 seconds of powering on the ESP32.
 4. Connect to this AP\
