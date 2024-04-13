@@ -8,7 +8,7 @@
 <br>
 <br>
 I have also designed a case and lid that can be 3d printed and it houses a small lipo battery, a usb/micro usb charger module salvaged from a portable powerpack, a esp32 wroom 32U with external antenna. <br>
-It's a simple parts list to put together and the parts do not take to long to print. I will be adding the files for printing soon along with pics of the build. </b>
+It's a simple parts list to put together and the parts do not take to long to print. I will be adding the files for printing soon.</b>
 
 ## Pics of build 
 ![Outside](Images/Outside-1.jpg)![Inside](Images/Inside-1.jpg)
