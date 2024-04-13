@@ -3,12 +3,15 @@
 
 ## 🌟 Fully working as of 04/05/24 🌟
 
-<b>Thought I'd make it easy for those wanting to try out "ESP32 Wi-Fi Penetration Tool" by <a href="https://github.com/risinek/esp32-wifi-penetration-tool">"risinek"</a>. This is a universal tool for ESP32 boards  and it allows implementing various Wi-Fi attacks. It's a simple parts list to put together and can be built in under 20 mins without a case. <br> </b>
+<b>Thought I'd make it easy for those wanting to try out "ESP32 Wi-Fi Penetration Tool" by <a href="https://github.com/risinek/esp32-wifi-penetration-tool">"risinek"</a>. This is a universal tool for ESP32 boards  and it allows implementing various Wi-Fi attacks. <br> I have designed a case and lid that can be 3d printed and it houses a small lipo battery, a usb/micro usb charger module salvaged from a portable powerpack, a esp32 wroom 32U with external antenna It's a simple parts list to put together and can be built in under 20 mins without a case. <br> </b>
   
 ### More info about "ESP32 Wi-Fi Penetration Tool" can be located <a href="https://github.com/risinek/esp32-wifi-penetration-tool">HERE</a>.  
   
-
-  <hr>
+<hr>
+  
+## Simple Flash Method: <br>
+<a href=https://atomnft.github.io/ESP32-Wi-Fi-Penetration-Tool/flash0.html>ESP32 Wi-Fi Penetration Tool Flasher</a>
+  
   <br>
 
 ## Usage
@@ -22,5 +25,3 @@ By default:
 
 ![Web client UI](Images/ui-img.png)
   
-## Simple Flash Method: <br>
-<a href=https://atomnft.github.io/ESP32-Wi-Fi-Penetration-Tool/flash0.html>ESP32 Wi-Fi Penetration Tool Flasher</a>
