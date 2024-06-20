@@ -16,6 +16,9 @@ It's a simple parts list to put together and the parts do not take to long to pr
 <hr>
 <br>
 
+## 3D files
+Download the files <a href=https://github.com/ATOMNFT/ESP32-Wi-Fi-Penetration-Tool/tree/main/3D%20files>HERE</a>
+
 ## Simple Flash Method & Usage:
 1. Use the <a href=https://atomnft.github.io/ESP32-Wi-Fi-Penetration-Tool/flash0.html>ESP32 Wi-Fi Penetration Flasher Tool</a> in google chrome to flash the project onto ESP32 (DevKit or module)
 2. Once the flash is complete, unplug the ESP32 for 30 seconds. Plug the usb back in to power up ESP32.
